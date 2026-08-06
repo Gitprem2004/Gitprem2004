@@ -82,10 +82,13 @@ I'm passionate about building practical AI applications, solving real-world prob
 
 ## 📊 GitHub Stats
 
+## 📈 Contribution Graph
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gitprem2004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitprem2004&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>  
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gitprem2004&theme=tokyo-night"/>
+
+</p>
 ---
 
 ## 📈 GitHub Streak
@@ -113,7 +116,7 @@ I'm passionate about building practical AI applications, solving real-world prob
 <p align="center">
 
 <a href="https://linkedin.com/in/prem19">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:premkumarselvaraj2004@gmail.com">
