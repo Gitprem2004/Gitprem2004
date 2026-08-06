@@ -83,10 +83,9 @@ I'm passionate about building practical AI applications, solving real-world prob
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gitprem2004&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitprem2004&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
-</p>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gitprem2004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gitprem2004&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>  
 ---
 
 ## 📈 GitHub Streak
@@ -118,7 +117,7 @@ I'm passionate about building practical AI applications, solving real-world prob
 </a>
 
 <a href="mailto:premkumarselvaraj2004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
