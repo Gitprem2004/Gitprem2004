@@ -80,7 +80,6 @@ I'm passionate about building practical AI applications, solving real-world prob
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📈 Contribution Graph
 
@@ -119,9 +118,15 @@ I'm passionate about building practical AI applications, solving real-world prob
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:premkumarselvaraj2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=premkarthik30@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</p>
+
+<p align="center">
+📧 <strong>premkarthik30@gmail.com</strong>
+</p>
 
 </p>
 
