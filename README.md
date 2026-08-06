@@ -16,8 +16,8 @@ I'm passionate about building practical AI applications, solving real-world prob
 
 - 🎓 B.Tech in Artificial Intelligence & Data Science
 - 💼 Open to Software Engineer, Data Analyst, AI/ML & Generative AI roles
-- 🌱 Currently learning **AWS, Backend Development, LLM Applications & Data Engineering**
-- 🧠 Interested in Artificial Intelligence, Machine Learning and Analytics
+- 🌱 Currently learning **AWS, Backend Development, GenAI Tools, LLM Applications & Data Engineering**
+- 🧠 Interested in Artificial Intelligence, Machine Learning, Analytics & IT Roles
 - 🚀 I enjoy building useful software that combines AI with real-world applications
 - 🤝 Always learning, always building.
 
@@ -101,7 +101,7 @@ I'm passionate about building practical AI applications, solving real-world prob
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:premkarthik30@gmail.com">
+<a href="mailto:premkumarselvaraj2004@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
